@@ -3,7 +3,7 @@ USC Map
 
 USC Map is an application that queries a spatial database. 
 
-Compile and Run:
+For detail assignment description: see CSCI 585 Assignmnet 2.pdf
 
 Compile and Run:
 
